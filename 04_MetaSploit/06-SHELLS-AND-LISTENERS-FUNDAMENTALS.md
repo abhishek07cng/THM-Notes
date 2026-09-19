@@ -1,6 +1,6 @@
 # 🐚 SHELLS & LISTENERS FUNDAMENTALS
 
-> **My Cyber Journey --- Revision Edition**\
+> ** Revision Edition**\
 > `UNDERSTAND → LISTEN → CONNECT → STABILISE → ENCRYPT`
 
 > \[!CAUTION\] Organized from the supplied **Shells & Listeners
